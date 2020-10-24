@@ -1,1 +1,8 @@
 /* Your custom CSS code goes here */
+.gridshading  div[class^="col"] {
+    border: 1px solid white;
+    background: #8c9292e0;
+    text-align: center;
+    padding-top: 8px;
+    padding-bottom: 8px;
+}
